@@ -38,13 +38,13 @@ Though I know very little about the film industry basic domain research has taug
 These criteria narrowed down my 1,682 person producer list and 615 person director list to 189 and 108 people, respectively. These lists are available in the student.ipynb for viewing and are the candidate I'd recommend investigating further. Boxplots below show distribution of median ROI for each producer and director and "Tier 1" producers / directors are those who made the top lists. 
 
 **Top Producers**
-<p align="center">
-![Top Prodcuers](top_producers.png)
-</p>
+
+![Top Prodcuers](top_producers.png) ![Top Directors](top_directors.png)
+
 **Top Directors**
-<p align="center">
+
 ![Top Directors](top_directors.png)
-</p>
+
 ### Don't Skimp on the Budget
 Finally, I sought to determine which budget films lead to profitable films most often. As the plot below show, the more you spend on a given film, the more likely it is to be profitable.
 
