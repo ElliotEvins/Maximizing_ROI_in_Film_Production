@@ -35,11 +35,11 @@ There are many different genre of films available to produce and they do not all
 ### Hire Great People to Make Them
 Though I know very little about the film industry basic domain research has taught me that who you hire to make your film, especially producers and directors, have a very strong effect on the profitability of your film. For this section of the project I sought to figure out who the *best* producers and directors are in the industry based on the median ROI of their films. I sought out directors and producers which had produced or directed at least three recent films (for which I had financial data available) which had a median ROI over 5.00x. 
 
-These criteria narrowed down my 1,682 person producer list and 615 person director list to 189 and 108 people, respectively. These lists are available in the student.ipynb for viewing and are the candidate I'd recommend investigating further. Boxplots below show distribution of median ROI for each producer and director and "Tier 1" producers / directors are those who made the top lists. 
+These criteria narrowed down my 1,682 person producer list and 615 person director list to 189 and 108 people, respectively. These lists are available in the student.ipynb for viewing and are the candidate I'd recommend investigating further. The boxplots below show the comparative distributions of the "Tier 1" (those who made our select list) and "Tier 2" (all) categories of directors and producers. 
 
 **Top Producers**
 
-![Top Prodcuers](top_producers.png) ![Top Directors](top_directors.png)
+![Top Prodcuers](top_producers.png)
 
 **Top Directors**
 
@@ -51,4 +51,13 @@ Finally, I sought to determine which budget films lead to profitable films most 
 ![Probitability by Budget](profitability_by_production_budget3.png)
 
 ## Further Studies
+Though we made some great insights during this project there are several advanced steps we may take which could bring us closer to our goal of becoming a successful studio. 
 
+### Dive Deeper Into Movie Finances
+Hollywood has proven to be notorious for skewing, or otherwise being secretive about, the financial data of their films. One problem with the data we had available in this study is that we are only given the production budget for these movies. While useful this number does not account for other expenses relating to distribution such as the theater's cut, advertising, and marketing. Given more reliable financial data which includes promotional budgets, as well as perhaps other sources of revenue such as instant video rentals, would help us better understand what make profitable films. 
+
+### Clarify Distribution Model
+Answering the question "what type of movies should we be producing" in this analysis depends on the very important assumption that Microsoft intends on producing these movies with the intent to premier them in theaters where they will make the majority of their revenue. The success metrics would likely be very different if the goal were to say - launch a subscriber based video streaming service. If that were the case then a likely success metric would be viewer counts, or movie popularity to put it more broadly. In which case then it would be time to search for the best metrics for determining the "trending-worthiness" of a movie or mini series. 
+
+### Preferred Genres of Directors / Producers
+It would be helpful to analyze what type of movies our chosen producers / directors are accustomed to working on. Furthermore, we could look at our most profitable genres and see which directors and producers have the most experience working on films of each genre.
