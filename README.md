@@ -3,7 +3,7 @@
 ## Table of Contents
 * [General Info](#general-info)
 * [Technologies](#technologies)
-* [Insights and Business Recommendations](#recommendations)
+* [Insights and Business Recommendations](#insights-and-business-recommendations)
 * [Further Studies](#further-studies)
 
 ## General Info
