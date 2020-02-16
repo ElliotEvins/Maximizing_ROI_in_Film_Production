@@ -35,7 +35,7 @@ There are many different genre of films available to produce and they do not all
 ### Hire Great People to Make Them
 Though I know very little about the film industry basic domain research has taught me that who you hire to make your film, especially producers and directors, have a very strong effect on the profitability of your film. For this section of the project I sought to figure out who the *best* producers and directors are in the industry based on the median ROI of their films. I sought out directors and producers which had produced or directed at least three recent films (for which I had financial data available) which had a median ROI over 5.00x. 
 
-These criteria narrowed down my 1,682 person producer list and 615 person director list to 189 and 108 people, respectively. These lists are available in the student.ipynb for viewing and are the candidate I'd recommend investigating further. The boxplots below show the comparative distributions of the "Tier 1" (those who made our select list) and "Tier 2" (all) categories of directors and producers. 
+These criteria narrowed down our producers list from 1,682 producers to 39 producers, and our directors list from 615 directors to 29 directors. These lists are available in the student.ipynb for viewing and are the candidates I'd recommend investigating further. The boxplots below show the comparative distributions of the "Tier 1" (those who made our select list) and "Tier 2" (all) categories of directors and producers. 
 
 **Top Producers**
 
